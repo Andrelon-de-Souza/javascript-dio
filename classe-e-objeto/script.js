@@ -10,7 +10,6 @@ class formaDeBolo {
 
     assar() {
         console.log("Bolo assando de " + this.saborDaMassa);
-        
     }
 }
 
