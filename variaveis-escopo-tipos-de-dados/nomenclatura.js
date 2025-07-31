@@ -6,4 +6,4 @@ var $teste = 12;
 
 const TESTE = 10; // CONST normalmente com letras maiúsculas
 
-const testeVariavel = 10; // também podemos usar o ca
+const testeVariavel = 10; // também podemos usar o Camel Case
